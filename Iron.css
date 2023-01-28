@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: roboto;
+}
+
+h1 {
+  font-family: roboto;
+  text-size: 9em;
+  text-align: center;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: roboto;
+  text-size: 5em;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 4em;
+}
+h3 {
+  font-family: roboto;
+  text-size: 4.2em;
+  text-align: center;
+  line-height: 1em;
+}
+h4 {
+  font-family: roboto;
+  text-size: 1.5em;
+  letter-spacing: 0.4px;
+  line-height: 1em;
+}
+h5 {
+  font-family: roboto;
+  text-size: 1.2em;
+  line-height: 1em;
+}
